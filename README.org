@@ -1,0 +1,5 @@
+
+| date              | title                                                       | link                                       |
+| 19/04/2021, 13:30 | *Internalizing representation independence with univalence* | https://dl.acm.org/doi/pdf/10.1145/3434293 |
+
+https://www.youtube.com/watch?v=e3wGUuAxfG8
