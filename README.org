@@ -1,5 +1,6 @@
 
-| date              | title                                                       | link                                       |
-| 19/04/2021, 13:30 | *Internalizing representation independence with univalence* | https://dl.acm.org/doi/pdf/10.1145/3434293 |
+| date              | title                                                                                                                                                                                   | link                                       |
+|-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------|
+| 19/04/2021, 13:30 | Angiuli, C., Cavallo, E., Mörtberg, A., & Zeuner, M. (2021). Internalizing representation independence with univalence. Proceedings of the ACM on Programming Languages, 5(POPL), 1-30. | https://dl.acm.org/doi/pdf/10.1145/3434293, https://www.youtube.com/watch?v=e3wGUuAxfG8 |
 
-https://www.youtube.com/watch?v=e3wGUuAxfG8
+
