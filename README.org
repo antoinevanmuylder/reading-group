@@ -4,5 +4,10 @@
 |-------------------+------------------------------------------------------------+------+--------------|
 | 19/04/2021, 13:30 | [[https://dl.acm.org/doi/pdf/10.1145/3434293][Internalizing representation independence with univalence.]] | /    | youtube talk |
 | 03/05/2021, 13:30 |                                                            |      |              |
-
-
+* Ideas for papers to present
+** [Dominique] [[https://doi.org/10.1006/inco.1995.1103][P. W. O’Hearn and J. G. Riecke. Kripke Logical Relations and PCF. Information and Computation, 120(1):107–116, July 1995. ISSN 0890-5401. doi:10.1006/inco.1995.1103.]]
+   An old gem: variable-arity logical relations and completeness of PCF.
+** [Dominique] [[https://doi.org/10.1017/S0956796820000283][JOACHIM BREITNER, ANTAL SPECTOR-ZABUSKY, YAO LI, CHRISTINE RIZKALLAH, JOHN WIEGLEY, JOSHUA COHEN, and STEPHANIE WEIRICH, “Ready, Set, Verify! Applying hs-to-coq to real-world Haskell code,” Journal of Functional Programming, vol. 31, p. e5, 2021]].
+   How to export Haskell to Coq.
+** [Dominique] Some notes I have lying around about logical relation completeness.
+   Related to variable-arity LRs (see above).
