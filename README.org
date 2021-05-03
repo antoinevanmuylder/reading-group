@@ -12,3 +12,11 @@
    How to export Haskell to Coq.
 ** [Dominique] Some notes I have lying around about logical relation completeness.
    Related to variable-arity LRs (see above).
+** [Steven] [[https://dl.acm.org/doi/10.1145/3372885.3373818][Arjen Rouvoet, Casper Bach Poulsen, Robbert Krebbers, and Eelco Visser. 2020. Intrinsically-typed definitional interpreters for linear, session-typed languages. In Proceedings of the 9th ACM SIGPLAN International Conference on Certified Programs and Proofs (CPP 2020).]]
+   [[https://youtu.be/xzGzwiYQJWE][Youtube]]
+   Encoding of linearity in abstract syntax. Related to a master thesis proposal.
+** [Steven] [[https://dl.acm.org/doi/abs/10.1145/2628136.2628145][François Pottier. 2014. Hindley-milner elaboration in applicative style: functional pearl. In Proceedings of the 19th ACM SIGPLAN international conference on Functional programming (ICFP '14).]]
+   [[https://youtu.be/8b79M4Nmh34][Youtube]]
+   An applicative that encodes constraints that produce a value. Useful ref if we want to apply some of our constraints infrastructure in Katamaran to type-inference and elaboration.
+** [Steven] [[https://www.researchgate.net/profile/Ralph-Johan_Back/publication/31594389_Refinement_Calculus_A_Systematic_Introduction/links/02bfe50e7fb829f15d000000/Refinement-Calculus-A-Systematic-Introduction.pdf][Back, R. J., & Wright, J. (2012). Refinement calculus: a systematic introduction. Springer Science & Business Media.]]
+   Chapter 1: Introduction
